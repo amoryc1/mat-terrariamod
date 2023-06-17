@@ -1,0 +1,3 @@
+displayName = Matoos-A-Tron
+author = amoryc
+version = 0.1
