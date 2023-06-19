@@ -1,0 +1,13 @@
+Matoos-A-Tron Prime is currently in prealpha so expect bugs
+
+- Version 0.1 -
+Whats new:
+- Adds 'Vitamin Supplements' (Grants Well Fed for 3 mins)
+- Adds 'Band of Purity' (+20 life, +5 critical rate)
+- Adds 'Flying Slime Staff' (Summon item, 6 base dmg)
+Changes:
+- 'Zinc Ore' now generates in new worlds
+- 'Jungle Spear' now has a 50% chance to poison for 3 seconds. It also now only poisons for 5 seconds on a critical hit
+
+
+Made by amoryc :)
